@@ -2,8 +2,6 @@
 
 An AI-powered research assistant for computational biologists — describe a gene panel, disease, or method question in plain English and get back a literature summary, relevant public datasets, a suggested analysis workflow, and a runnable Scanpy code template.
 
-**Live demo:** [add your Streamlit Community Cloud link here]
-
 ## How it works
 
 A 5-stage synchronous agent pipeline (see `orchestrator.py`) turns a natural-language query into a structured research brief:
